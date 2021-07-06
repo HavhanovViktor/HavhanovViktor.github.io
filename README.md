@@ -1,2 +1,2 @@
-# HavhanovViktor.github.io
+# Хавханов Виктор
 Мой первый сайт
